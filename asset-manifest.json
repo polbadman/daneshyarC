@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daneshyar/static/css/main.c8168f73.chunk.css",
+    "main.js": "/daneshyar/static/js/main.4b384f6b.chunk.js",
+    "main.js.map": "/daneshyar/static/js/main.4b384f6b.chunk.js.map",
+    "runtime~main.js": "/daneshyar/static/js/runtime~main.e466efd9.js",
+    "runtime~main.js.map": "/daneshyar/static/js/runtime~main.e466efd9.js.map",
+    "static/js/2.bd94d159.chunk.js": "/daneshyar/static/js/2.bd94d159.chunk.js",
+    "static/js/2.bd94d159.chunk.js.map": "/daneshyar/static/js/2.bd94d159.chunk.js.map",
+    "index.html": "/daneshyar/index.html",
+    "precache-manifest.4e09da32b2953f56c8bb72914115b83c.js": "/daneshyar/precache-manifest.4e09da32b2953f56c8bb72914115b83c.js",
+    "service-worker.js": "/daneshyar/service-worker.js",
+    "static/css/main.c8168f73.chunk.css.map": "/daneshyar/static/css/main.c8168f73.chunk.css.map"
+  }
+}
